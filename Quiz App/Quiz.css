@@ -1,0 +1,29 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: navy;
+}
+.container{
+    width: 540px;
+    margin-left: 33%;
+    background-color: white;
+    padding: 10px;
+    padding-bottom: 60px;
+}
+.heading{
+    text-align: center;
+    font-weight: bolder;
+}
+.btn{
+    text-align: center;
+}
+button{
+    width: 140px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+}
